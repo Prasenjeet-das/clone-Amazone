@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    background-color: rgba(249, 107, 66, 1.00);
+    background-color: rgba(249, 107, 66, 1.00);
+}
+#google_logo{
+    height: 100px;
+    
+    background-image: url(google-logo-9834.png);
+    background-size: cover;
+}
